@@ -1,0 +1,2 @@
+cn054 slot1
+cn065 slot2

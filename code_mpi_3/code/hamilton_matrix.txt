@@ -1,0 +1,2 @@
+[mpiexec@cn051] Sending Ctrl-C to processes as requested
+[mpiexec@cn051] Press Ctrl-C again to force abort
