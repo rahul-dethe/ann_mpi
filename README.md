@@ -1,5 +1,3 @@
-# ANN_MPI Project Archive Notes
-
 This repository contains different versions of the `ann_mpi` project, each with varying levels of completeness and testing status.
 
 ---
