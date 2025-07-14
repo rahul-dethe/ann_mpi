@@ -22,7 +22,7 @@ The environment created from the provided `.yml` file did not work as expected. 
 - Input files
 
 **Remarks:**
-Environment and code are set up, but the implementation still needs to be retested for a final conclusion.
+The environment and code are set up. The environment and code are set up. The application is currently running. Once all the results are available, will upload them here.
 
 ---
 
